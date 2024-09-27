@@ -14,7 +14,7 @@ local SaturrnLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGBA(0, 0, 0),
+			Main = {Color = Color3.fromRGB(117, 0, 176), Transparency = 0.5}, -- Ajout de la transparence ici (0.5 = 50% transparent)
 			Second = Color3.fromRGB(157, 59, 207),
 			Stroke = Color3.fromRGB(216, 1, 231),
 			Divider = Color3.fromRGB(216, 1, 231),
