@@ -15,6 +15,7 @@
         Themes = {
             Default = {
                 Main = Color3.fromRGB(25, 25, 25),
+                MainTransparency = 0.2,
                 Second = Color3.fromRGB(32, 32, 32),
                 Stroke = Color3.fromRGB(60, 60, 60),
                 Divider = Color3.fromRGB(60, 60, 60),
